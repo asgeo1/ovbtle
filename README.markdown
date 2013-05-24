@@ -1,6 +1,7 @@
-# ovbtle - A svbtle-clone theme for octopress
+# ovbtle
+### A svbtle-clone theme for octopress
 
-# What is this?
+## What is this?
 So, I really like [svbtle](http://svbtle.com). It is clean, elegant, and concise.
 
 What I *really* don't like about it though is the fact it is this 'ivory tower 
@@ -16,5 +17,5 @@ Aguila](http://orlando.delagui.la/code/2013/03/10/svbtle-theme-for-jekyll.html) 
 modifications on top. Thank you Orlando! Be sure to go to his blog and give him
 some well deserved kudos!
 
-# Requirements:
+## Requirements:
 [https://github.com/orlando/kudo_server](https://github.com/orlando/kudo_server).
