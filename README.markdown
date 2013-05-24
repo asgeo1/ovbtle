@@ -1,4 +1,4 @@
-# jvbtle - A svbtle-clone theme for jekyll and octopress
+# ovbtle - A svbtle-clone theme for octopress
 
 # What is this?
 So, I really like [svbtle](http://svbtle.com). It is clean, elegant, and concise.
