@@ -19,6 +19,7 @@ body{
 }
 
 div#header{
+  position: fixed;
   height:auto;
   min-height: 100%;
   width:26%;
