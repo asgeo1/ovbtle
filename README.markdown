@@ -1,3 +1,6 @@
+# DO NOT USE THIS YET
+# CONVERSION TO OCTOPRESS IS STILL UNDERWAY
+
 # ovbtle
 ### A svbtle-clone theme for octopress
 
