@@ -1,6 +1,3 @@
-# DO NOT USE THIS YET
-# CONVERSION TO OCTOPRESS IS STILL UNDERWAY
-
 # ovbtle
 ### A svbtle-clone theme for octopress
 
@@ -21,4 +18,14 @@ modifications on top. Thank you Orlando! Be sure to go to his blog and give him
 some well deserved kudos!
 
 ## Requirements:
+You need to have the following things defined in <pre>_config.yml</pre>:
+
+<pre>
+site.email
+site.subscribe_rss
+site.subtitle
+site.title
+site.twitter_user
+site.url
+</pre>
 [https://github.com/orlando/kudo_server](https://github.com/orlando/kudo_server).
