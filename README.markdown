@@ -18,7 +18,7 @@ modifications on top. Thank you Orlando! Be sure to go to his blog and give him
 some well deserved kudos!
 
 ## Requirements:
-You need to have the following things defined in <pre>_config.yml</pre>:
+You need to have the following things defined in _config.yml:
 
 <pre>
 site.email
