@@ -244,6 +244,21 @@ div#content section.content article {
       -webkit-font-smoothing: antialiased;
     }
   }
+  h3 {
+    font-size: 1.5em;
+    font-weight: 600;
+    margin-top: 20px;
+    a {
+      color: #000;
+      text-decoration: none;
+      border-bottom: 1px solid #CCC;
+      font-family: "freight-sans-pro",sans-serif;
+      font-weight: 700;
+      font-size: 2em;
+      line-height: 28px;
+      -webkit-font-smoothing: antialiased;
+    }
+  }
   &.post {
     > p {
       max-width: 600px;
