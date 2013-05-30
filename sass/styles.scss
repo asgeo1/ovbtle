@@ -287,6 +287,10 @@ div#content section.content article {
     margin-bottom: 0px;
     border-left: 10px solid rgb(0, 0, 0);
   }
+  em, strong {
+    font-weight: bold;
+    font-style: italic;
+  }
   &.post {
     > p {
       max-width: 600px;
