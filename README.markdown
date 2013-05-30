@@ -28,4 +28,17 @@ site.title
 site.twitter_user
 site.url
 </pre>
-[https://github.com/orlando/kudo_server](https://github.com/orlando/kudo_server).
+
+## Setup
+1. Get into the root of your octopress.
+2. Run the following:
+<pre>
+git clone git://github.com/dmizelle/ovbtle.git
+bundle exec rake install['ovbtle']
+bundle exec rake clean && bundle exec rake generate
+</pre>
+3. Change the picture at the following location to be a 300x300 circle of whatever you'd like. This will be the logo at the top left:
+<pre>
+source/assets/images/me.png
+</pre>
+4. Deploy as you usually do!
