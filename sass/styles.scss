@@ -274,6 +274,19 @@ div#content section.content article {
       -webkit-font-smoothing: antialiased;
     }
   }
+  blockquote {
+    max-width: 600px;
+    padding-right: 100px;
+    display: inline-block;
+    padding-left: 18px;
+    padding-bottom: 0px;
+    font-size: 15px;
+    line-height: 25px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-left: 10px solid rgb(0, 0, 0);
+  }
   &.post {
     > p {
       max-width: 600px;
