@@ -17,6 +17,8 @@ Aguila](http://orlando.delagui.la/code/2013/03/10/svbtle-theme-for-jekyll.html) 
 modifications on top. Thank you Orlando! Be sure to go to his blog and give him
 some well deserved kudos!
 
+[View my personal site for a demo](http://devon.so)
+
 ## Requirements:
 You need to have the following things defined in _config.yml:
 
