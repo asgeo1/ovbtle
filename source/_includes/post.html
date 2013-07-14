@@ -21,7 +21,7 @@
       {% endif %}
     </p>
   </footer>
-  {% if post.kudos %}
+  {% if site.kudos and post.kudos %}
     <script>
       $(function() {
         (new Kudos({name:"kudos_"+ Math.floor(new Date().getTime() * Math.random()), articleId:"{{post.customid}}", articleTitle: "{{post.title}}", articleUrl:"{{post.url}}"})).render($("article#{{post.customid}}"));
